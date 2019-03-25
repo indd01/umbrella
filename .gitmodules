@@ -4,3 +4,6 @@
 [submodule "2-rebase-merge-with-fast-forward-example"]
 	path = 2-rebase-merge-with-fast-forward-example
 	url = https://github.com/changing-history/2-rebase-merge-with-fast-forward-example.git
+[submodule "3-rebase-with-conflicts-example"]
+	path = 3-rebase-with-conflicts-example
+	url = https://github.com/changing-history/3-rebase-with-conflicts-example.git
