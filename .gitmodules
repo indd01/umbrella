@@ -19,3 +19,6 @@
 [submodule "7-revert-commit-example"]
 	path = 7-revert-commit-example
 	url = https://github.com/changing-history/7-revert-commit-example.git
+[submodule "8-reset-simple-example"]
+	path = 8-reset-simple-example
+	url = https://github.com/changing-history/8-reset-simple-example.git
