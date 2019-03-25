@@ -10,3 +10,6 @@
 [submodule "4-rebase-example-of-rebase-on-particular-commit"]
 	path = 4-rebase-example-of-rebase-on-particular-commit
 	url = https://github.com/changing-history/4-rebase-example-of-rebase-on-particular-commit.git
+[submodule "5-rebase-using-onto-example"]
+	path = 5-rebase-using-onto-example
+	url = https://github.com/changing-history/5-rebase-using-onto-example.git
