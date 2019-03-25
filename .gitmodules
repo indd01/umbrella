@@ -22,3 +22,6 @@
 [submodule "8-reset-simple-example"]
 	path = 8-reset-simple-example
 	url = https://github.com/changing-history/8-reset-simple-example.git
+[submodule "9-rerere-simple-example"]
+	path = 9-rerere-simple-example
+	url = https://github.com/changing-history/9-rerere-simple-example.git
