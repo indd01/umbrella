@@ -1,3 +1,6 @@
 [submodule "1-rebase-merge-with-no-fast-forward-example"]
 	path = 1-rebase-merge-with-no-fast-forward-example
 	url = https://github.com/changing-history/1-rebase-merge-with-no-fast-forward-example.git
+[submodule "2-rebase-merge-with-fast-forward-example"]
+	path = 2-rebase-merge-with-fast-forward-example
+	url = https://github.com/changing-history/2-rebase-merge-with-fast-forward-example.git
