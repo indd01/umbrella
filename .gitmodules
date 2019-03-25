@@ -7,3 +7,6 @@
 [submodule "3-rebase-with-conflicts-example"]
 	path = 3-rebase-with-conflicts-example
 	url = https://github.com/changing-history/3-rebase-with-conflicts-example.git
+[submodule "4-rebase-example-of-rebase-on-particular-commit"]
+	path = 4-rebase-example-of-rebase-on-particular-commit
+	url = https://github.com/changing-history/4-rebase-example-of-rebase-on-particular-commit.git
