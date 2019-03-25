@@ -16,3 +16,6 @@
 [submodule "6-rebase-interactive-mode-example"]
 	path = 6-rebase-interactive-mode-example
 	url = https://github.com/changing-history/6-rebase-interactive-mode-example
+[submodule "7-revert-commit-example"]
+	path = 7-revert-commit-example
+	url = https://github.com/changing-history/7-revert-commit-example.git
