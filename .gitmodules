@@ -13,3 +13,6 @@
 [submodule "5-rebase-using-onto-example"]
 	path = 5-rebase-using-onto-example
 	url = https://github.com/changing-history/5-rebase-using-onto-example.git
+[submodule "6-rebase-interactive-mode-example"]
+	path = 6-rebase-interactive-mode-example
+	url = https://github.com/changing-history/6-rebase-interactive-mode-example
